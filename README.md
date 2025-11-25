@@ -23,7 +23,7 @@ Other: CSP/Security hardening, API design, Agile workflow, debugging wizardry
 
 - I spend my free time crafting, hiking, and gaming...unless I’m learning something new
 
-- I love to sing (loudly, happily, and often)
+- I love to sing
 
 - I’m powered by green tea and Diet Pepsi
 
