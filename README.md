@@ -26,3 +26,6 @@ Other: CSP/Security hardening, API design, Agile workflow, debugging wizardry
 - I love to sing (loudly, happily, and often)
 
 - I’m powered by green tea and Diet Pepsi
+
+
+<sub>❤️🏈💛 Go Chiefs! 💛🏈❤️</sub>
