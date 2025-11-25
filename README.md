@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌙 Oh hi👋
 
-<!--
-**ShyLee873/ShyLee873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shy, a Ruby on Rails & JavaScript dev based in North Carolina.
 
-Here are some ideas to get you started:
+I love building things that make people think, smile, or learn. Whether it’s backend systems, interactive React apps, or tiny weird side-projects that somehow turn into full features.
+If an idea pops into my head, chances are I’ll prototype it, break it a few times, rebuild it, and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m deep into designing delightful, secure, and scalable experiences across full-stack Ruby on Rails, React, and modern JavaScript.
+
+
+## My Tech Stack:
+
+Backend: Ruby on Rails, PostgreSQL, Redis, Sidekiq
+
+Frontend: React, JavaScript, HTML, SCSS
+
+Testing: RSpec, Capybara, Selenium, Playwright
+
+Other: CSP/Security hardening, API design, Agile workflow, debugging wizardry
+
+
+## Fun Facts About Me:
+
+I spend my free time crafting, hiking, and gaming...unless I’m learning something new
+
+I love to sing (loudly, happily, and often)
+
+I’m powered by green tea and Diet Pepsi
